@@ -28,3 +28,11 @@ Feel free to answer in Persian
   ```
   nc [IP] 1234
   ```
+
+## Review
+
+Link to your PR:  
+[PR](https://github.com/Star-Academy/Summer1404-DevOps-Team01/pull/1)  
+
+- [ ] Your PR is reviewed and approved by both mentors
+- [ ] Your PR is merged
