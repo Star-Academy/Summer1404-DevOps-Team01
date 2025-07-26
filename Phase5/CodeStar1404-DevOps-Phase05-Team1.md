@@ -14,8 +14,8 @@ Feel free to answer in Persian
   7. **پشتیبانی قوی جامعه و ابزارها:** بسیاری از ابزارهای محبوب DevOps مثل Docker، Kubernetes و Terraform با Go نوشته شده‌اند و جامعه فعالی دارند.
 
   مثال واقعی: ابزارهایی مثل Docker و Kubernetes که پایه و اساس بسیاری از زیرساخت‌های ابری و DevOps هستند، با Go توسعه داده شده‌اند و همین موضوع باعث اعتماد و استقبال بیشتر جامعه DevOps از این زبان شده است.
-- [ ] Implement a traceroute tool using Go.
-- [ ] Create a REST API that returns result of a traceroute given an IP address or a Hostname on a GET request.
+- [X] Implement a traceroute tool using Go.
+- [X] Create a REST API that returns result of a traceroute given an IP address or a Hostname on a GET request.
 
 ## Review
 
