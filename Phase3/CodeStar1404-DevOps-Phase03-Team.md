@@ -23,7 +23,7 @@ Feel free to answer in Persian
 ## Review
 
 Link to your PR:  
-`[LINK TO YOUR PR]`  
+[PR](https://github.com/Star-Academy/Summer1404-DevOps-Team01/pull/3)  
 
 - [ ] Your PR is reviewed and approved by both mentors
 - [ ] Your PR is merged
