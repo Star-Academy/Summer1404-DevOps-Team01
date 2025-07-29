@@ -22,3 +22,10 @@ Feel free to answer in Persian.
 
   - کار تیمی: تیم‌ها می‌توانند با ابزارها و زبان مشترک راحت‌تر با هم کار کنند.
   
+## Review
+
+Link to your PR:  
+[PR](https://github.com/Star-Academy/Summer1404-DevOps-Team01/pull/7)  
+
+- [ ] Your PR is reviewed and approved by both mentors
+- [ ] Your PR is merged
