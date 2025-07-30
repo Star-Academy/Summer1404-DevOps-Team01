@@ -1,0 +1,23 @@
+- name: Install Python on target VM
+  hosts: servers
+  become: yes # This enables privilege escalation (sudo)
+  tasks:
+    - name: Update package cache
+      package:
+        update_cache: yes
+
+    - name: Install Python
+      package:
+        name:
+          - python3
+          - python3-pip
+        state: present
+
+    - name: Check Python version
+      command: python3 --version
+      register: python_version
+      changed_when: false
+
+    - name: Display Python version
+      debug:
+        msg: "Python version: {{ python_version.stdout }}"
