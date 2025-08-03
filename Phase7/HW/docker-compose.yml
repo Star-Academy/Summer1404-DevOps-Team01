@@ -1,0 +1,16 @@
+services:
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6060:6379"
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./log/myapp.log:/var/log/myapp.log
+    depends_on: 
+      - redis
